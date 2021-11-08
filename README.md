@@ -4,7 +4,7 @@
 <body>
   <h2> Loja de vendas de aeronaves </h2>
   <h3> Atritubutos do projeto </h3>
-  <li> Cátalogo de aeronaves </li>
+  <li> Catálogo de aeronaves </li>
   <li> Visualização como cliente e admin </li>
   <li> Banco de dados MySQL </li>
   <li> Menu de usuário </li>
